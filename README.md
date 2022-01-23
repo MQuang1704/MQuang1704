@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Minh Quang
 - 🌱 I’m currently learning in HCMUS
-- 📫 How to reach me ...
 
 <!---
 MQuang1704/MQuang1704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
